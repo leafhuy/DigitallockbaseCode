@@ -5,6 +5,6 @@ Some easy to find Component in this project:
  - 20x4 HD44780 Liquid Crystal LCD
  - 4x4 numpad
 > Project was coded on Micro Chip Studio\
-> import Code to Atmega 128 thourgh "AVR USBasp Programmer" (you can search this on Google)\
-\
-You can go watch my test circuit at 
+> import Code to Atmega 128 thourgh "AVR USBasp Programmer" (you can search this on Google)
+
+You can go watch my test circuit at (https://github.com/leafhuy/DigitallockbaseCode/blob/main/DigitalLockCircuitProteus.png)
